@@ -308,13 +308,7 @@ Contributions, issues, and feature requests are welcome. If you'd like to contri
 3. Commit your changes
 4. Open a pull request describing the change and motivation
 
----
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
