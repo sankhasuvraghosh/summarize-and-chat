@@ -293,9 +293,8 @@ pip install torch --index-url https://download.pytorch.org/whl/cu121
 
 ```
 .
-├── summarize_and_chat.ipynb   # Main Colab notebook
+├── slm_mark1.ipynb   # Main Colab notebook
 ├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
 ```
 
 ---
